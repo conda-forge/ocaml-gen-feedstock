@@ -5,7 +5,7 @@
 
 [workspace]
 name = "ocaml-gen-feedstock"
-version = "2026.10.20"  # conda-smithy version used to generate this file
+version = "2026.10.21"  # conda-smithy version used to generate this file
 description = "Pixi configuration for conda-forge/ocaml-gen-feedstock"
 authors = ["@conda-forge/ocaml-gen"]
 channels = ["conda-forge"]
